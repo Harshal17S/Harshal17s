@@ -20,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshal17s&show_icons=true&locale=en" alt="harshal17s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshal17s&" alt="harshal17s" /></p>
+
+# HactoberFest Badges : 
+[![An image of @Harshal17S's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Harshal17S)](https://holopin.io/@Harshal17S)
