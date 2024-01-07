@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  height="500" width="700">
   </p>
 
 <br><br>
@@ -9,7 +9,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshal17s&label=Profile%20views&color=0e75b6&style=flat" alt="harshal17s" /> </p>
 
 
-<h1>Connect with me:</h1> 
+
+## Connect with me:
 
 [![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)](https://instagram.com/adidem23) 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://linkedin.com/in/aditya-suryawanshi-945145235/) 
