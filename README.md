@@ -15,10 +15,10 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)](https://instagram.com/adidem23) 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://linkedin.com/in/aditya-suryawanshi-945145235/) 
 [![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)](https://twitter.com/SURYAWANSHIADI3)
-[![DockerHub](https://skillicons.dev/icons?i=docker&perline=3)](https://hub.docker.com/u/adidem23) 
+[![Gmail](https://skillicons.dev/icons?i=gmail&perline=3)](https://hub.docker.com/u/adidem23) 
 
 ## Languages and Tools:
-<h3> Programming 🧑‍💻:</h3>
+<h3> Programming 💡:</h3>
 
 [![c](https://skillicons.dev/icons?i=c&perline=3)](https://skillicons.dev)
 [![java](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev)
@@ -31,7 +31,7 @@
 [![React](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev)
 
 
-<h3> Backend 🧑‍💻:</h3>
+<h3> Backend 💾:</h3>
 
 [![NodeJs](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
 [![ExpressJs](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev)
