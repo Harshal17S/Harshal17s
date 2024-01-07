@@ -16,7 +16,7 @@
 [![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)](https://twitter.com/SURYAWANSHIADI3)
 [![DockerHub](https://skillicons.dev/icons?i=docker&perline=3)](https://hub.docker.com/u/adidem23) 
 
-# Languages and Tools:
+## Languages and Tools:
 <h3> Programming 🧑‍💻:</h3>
 
 [![c](https://skillicons.dev/icons?i=c&perline=3)](https://skillicons.dev)
@@ -39,14 +39,12 @@
 [![php](https://skillicons.dev/icons?i=php&perline=3)](https://skillicons.dev)
 [![postman](https://skillicons.dev/icons?i=postman&perline=3)](https://skillicons.dev)
 
-<h3> ML 🧑‍💻:</h3>
-
 
 <br>
 <br>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![Github Harshal17S](https://github-readme-stats.vercel.app/api?username=Harshal17S&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![ Harshal Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshal17S&theme=dark&hide_border=false)
 
@@ -59,7 +57,7 @@
 <br>
 <br>
 
-# HactoberFest Badges : 
+## HactoberFest Badges : 
 [![An image of @Harshal17S's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Harshal17S)](https://holopin.io/@Harshal17S)
 
 <br>
