@@ -12,10 +12,10 @@
 
 ## Connect with me:
 
-[![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)](https://www.instagram.com/harshal_ingale_s?igsh=cTRvZm9idHJtYWVw))&nbsp;&nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/iamharshalingale/))&nbsp;&nbsp;
-[![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)](https://x.com/Ingaleharshals?t=LLFW7UUkWz-Pnb6aKSw3FQ&s=09))&nbsp;&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail&perline=3)](https://mail.google.com/mail/u/harshal.ingale17@gmail.com))&nbsp;&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram&perline=3)](https://www.instagram.com/harshal_ingale_s?igsh=cTRvZm9idHJtYWVw)&nbsp;&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/iamharshalingale/)&nbsp;&nbsp;
+[![Twitter](https://skillicons.dev/icons?i=twitter&perline=3)](https://x.com/Ingaleharshals?t=LLFW7UUkWz-Pnb6aKSw3FQ&s=09)&nbsp;&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail&perline=3)](https://mail.google.com/mail/u/harshal.ingale17@gmail.com)&nbsp;&nbsp;
 
 ## Languages and Tools:
 <h3> Programming 💡:</h3>
