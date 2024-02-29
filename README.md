@@ -56,6 +56,7 @@
 ## 📊 GitHub Stats:
 ![Github Harshal17S](https://github-readme-stats.vercel.app/api?username=Harshal17S&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![ Harshal Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshal17S&theme=dark&hide_border=false)
+![Harshal Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal17S&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <br>
 <br>
