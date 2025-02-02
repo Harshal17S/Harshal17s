@@ -66,12 +66,13 @@
 
 <br>
 <br>
-
+<!--
 ## Quine  Widget
 [![Harshal17S's GitHub | Stats](https://stats.quine.sh/Harshal17S/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshal17S)
 [![Harshal17S's GitHub | Dependencies](https://stats.quine.sh/Harshal17S/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshal17S)
 [![Harshal17S's GitHub | Topics Over Time](https://stats.quine.sh/Harshal17S/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshal17S)
 [![Harshal17S's GitHub | Languages Over Time](https://stats.quine.sh/Harshal17S/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Harshal17S)
+-->
 
 ## HactoberFest Badges : 
 [![An image of @Harshal17S's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Harshal17S)](https://holopin.io/@Harshal17S)
