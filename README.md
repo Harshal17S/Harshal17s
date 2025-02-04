@@ -46,6 +46,7 @@
 [![MongoDb](https://skillicons.dev/icons?i=mongodb&perline=3)](https://skillicons.dev)&nbsp;&nbsp;
 [![MySQl](https://skillicons.dev/icons?i=mysql&perline=3)](https://skillicons.dev)&nbsp;&nbsp;
 [![php](https://skillicons.dev/icons?i=php&perline=3)](https://skillicons.dev)&nbsp;&nbsp;
+[![AWS](https://skillicons.dev/icons?i=aws&perline=3)](https://skillicons.dev)&nbsp;&nbsp;
 [![postman](https://skillicons.dev/icons?i=postman&perline=3)](https://skillicons.dev)&nbsp;&nbsp;
 
 
